@@ -1,0 +1,12 @@
+{
+  "name": "summernote-bootstrap3",
+  "description": "Super Simple WYSIWYG Editor on Bootstrap(3.0 and 2.x)",
+  "homepage": "https://github.com/illusionfield/meteor-summernote",
+  "author": "IllusionField (http://fieldgroup.net/)",
+  "version": "0.0.1",
+  "git": "https://github.com/illusionfield/meteor-summernote",
+  "packages": {
+  	"less-bootstrap-3": {},
+  	"less-fontawesome-4": {}
+  }
+}
