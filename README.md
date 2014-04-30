@@ -1,6 +1,7 @@
 meteor-summernote
 =================
 
+By: https://github.com/hackerwins/summernote
 
 ### Summernote
 Summernote is a javascript program that helps you to create WYSIWYG Editor on web.
