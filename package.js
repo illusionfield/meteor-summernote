@@ -9,7 +9,7 @@ Package.on_use(function (api, where) {
     'less-fontawesome-4',
   ], 'client');
 
-  api.add_files('lib/src/summernote.less', 'client');
+  api.add_files('lib/src/less/summernote.less', 'client');
   api.add_files('lib/dist/summernote.js', 'client', {bare:true});
 
   api.export(['summernote'],['client']);
